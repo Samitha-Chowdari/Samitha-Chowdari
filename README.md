@@ -7,8 +7,8 @@
 ### Current Projects
 - 🚀 Working on improving my skills and creating projects for my portfolio.
 - I made...
-- 3 Frontend Projects:- Spotify Clone, Data Science Blog, Portfolio
-- 1 ML Project:- Real-Time Predictive Power Management in IoT devices
+  3 Frontend Projects:- Spotify Clone, Data Science Blog, Portfolio
+  1 ML Project:- Real-Time Predictive Power Management in IoT devices
 
 ### Goals and Collaboration
 - 🤝 I’m looking to collaborate on Web development or Data science projects.

@@ -1,11 +1,14 @@
 # Hi, I'm Samitha Chowdari! 👋🌱
 
 ### About Me
-- 💻 I’m currently learning Web development.
-- 📚 Third-year student interested in DATA SCIENCE and WEB DEVELOPMENT.
+- 💻 I’m currently learning Full stack Web development and Machine learning.
+- 📚 Final year student interested in DATA SCIENCE and WEB DEVELOPMENT.
 
 ### Current Projects
-- 🚀 Working on improving my skills in GitHub and creating projects for my portfolio.
+- 🚀 Working on improving my skills and creating projects for my portfolio.
+- I made...
+- 3 Frontend Projects:- Spotify Clone, Data Science Blog, Portfolio
+- 1 ML Project:- Real-Time Predictive Power Management in IoT devices
 
 ### Goals and Collaboration
 - 🤝 I’m looking to collaborate on Web development or Data science projects.
